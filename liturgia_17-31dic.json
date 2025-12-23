@@ -266,16 +266,16 @@
     "rango": 4,
     "lecturas": {
       "primera": {
-        "ref": "Mal 3, 1-4. 23-24 ,",
+        "ref": "Mal 3, 1-4. 23-24",
         "extracto": "Os envío al profeta Elías, antes de que venga el Día del Señor.",
         "revisar": true,
-        "id": "Mal.3,1-4,23-24,"
+        "id": "Mal.3,1-4,23-24"
       },
       "salmo": {
-        "ref": "Sal 24,",
+        "ref": "Sal 24",
         "extracto": "Levantaos, alzad la cabeza; se acerca vuestra liberación.",
         "revisar": false,
-        "id": "Sal.24,"
+        "id": "Sal.24"
       },
       "evangelio": {
         "ref": "Lc 1, 57-66",
