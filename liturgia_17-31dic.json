@@ -1,0 +1,398 @@
+{
+  "FIX_12_26": {
+    "titulo": "SAN ESTEBAN, protomártir, fiesta",
+    "tipo": "Fiesta",
+    "color": "Rojo",
+    "rango": 2,
+    "lecturas": {
+      "primera": {
+        "ref": "Hch 6, 8-10; 7, 54-59 0",
+        "extracto": "Veo los cielos abiertos.",
+        "revisar": true,
+        "id": "Hch.6,8-10;7,54-590"
+      },
+      "salmo": {
+        "ref": "Sal 30",
+        "extracto": "A tus manos, Señor, encomiendo mi espíritu.",
+        "revisar": false,
+        "id": "Sal.30"
+      },
+      "evangelio": {
+        "ref": "Mt 10, 17-22",
+        "extracto": "No seréis vosotros los que habléis, sino el Espíritu de vuestro Padre.",
+        "revisar": false,
+        "id": "Mt.10,17-22"
+      }
+    }
+  },
+  "FIX_12_28": {
+    "titulo": "LOS SANTOS INOCENTES, mártires, fiesta",
+    "tipo": "Fiesta",
+    "color": "Rojo",
+    "rango": 2,
+    "lecturas": {
+      "primera": {
+        "ref": "1 Jn 1, 5 — 2, 2 0",
+        "extracto": "La sangre de Jesús nos limpia de todo pecado.",
+        "revisar": true,
+        "id": "1Jn.1,5—2,20"
+      },
+      "salmo": {
+        "ref": "Sal 123",
+        "extracto": "Hemos salvado la vida, como un pájaro de la trampa del cazador.",
+        "revisar": false,
+        "id": "Sal.123"
+      },
+      "evangelio": {
+        "ref": "Mt 2, 13-18",
+        "extracto": "Herodes mató a todos los niños en Belén.",
+        "revisar": false,
+        "id": "Mt.2,13-18"
+      }
+    }
+  },
+  "FIX_12_29": {
+    "titulo": "DÍA V DENTRO DE LA OCTAVA DE LA NATIVIDAD",
+    "tipo": "Feria",
+    "color": "Blanco",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "1 Jn 2, 3-11",
+        "extracto": "Quien ama a su hermano permanece en la luz.",
+        "revisar": false,
+        "id": "1Jn.2,3-11"
+      },
+      "salmo": {
+        "ref": "Sal 95",
+        "extracto": "Alégrese el cielo, goce la tierra.",
+        "revisar": false,
+        "id": "Sal.95"
+      },
+      "evangelio": {
+        "ref": "Lc 2, 22-35",
+        "extracto": "Luz para alumbrar a las naciones.",
+        "revisar": false,
+        "id": "Lc.2,22-35"
+      }
+    }
+  },
+  "FIX_12_30": {
+    "titulo": "DÍA VI DENTRO DE LA OCTAVA DE LA NATIVIDAD DEL SEÑOR",
+    "tipo": "Feria",
+    "color": "Blanco",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "1 Jn 2, 12-17",
+        "extracto": "El que hace la voluntad de Dios permanece para siempre.",
+        "revisar": false,
+        "id": "1Jn.2,12-17"
+      },
+      "salmo": {
+        "ref": "Sal 95",
+        "extracto": "Alégrese el cielo, goce la tierra.",
+        "revisar": false,
+        "id": "Sal.95"
+      },
+      "evangelio": {
+        "ref": "Lc 2, 36-40",
+        "extracto": "Hablaba del niño a todos los que aguardaban la liberación de Jerusalén.",
+        "revisar": false,
+        "id": "Lc.2,36-40"
+      }
+    }
+  },
+  "FIX_12_17": {
+    "titulo": "Misa de feria-17 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "Gen 49, 1-2. 8-10 49,",
+        "extracto": "No se apartará de Judá el cetro.",
+        "revisar": true,
+        "id": ""
+      },
+      "salmo": {
+        "ref": "Sal 71",
+        "extracto": "En sus días florezca la justicia y la paz abunde eternamente.",
+        "revisar": false,
+        "id": "Sal.71"
+      },
+      "evangelio": {
+        "ref": "Mt 1, 1-17",
+        "extracto": "Genealogía de Jesucristo, hijo de David.",
+        "revisar": false,
+        "id": "Mt.1,1-17"
+      }
+    }
+  },
+  "FIX_12_18": {
+    "titulo": "Misa de feria-18 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "Jer 23, 5-8",
+        "extracto": "Daré a David un vástago legítimo.",
+        "revisar": false,
+        "id": "Jer.23,5-8"
+      },
+      "salmo": {
+        "ref": "Sal 71",
+        "extracto": "En sus días florezca la justicia y la paz abunde eternamente.",
+        "revisar": false,
+        "id": "Sal.71"
+      },
+      "evangelio": {
+        "ref": "Mt 1, 18-24",
+        "extracto": "Genealogía de Jesucristo, hijo de David.",
+        "revisar": false,
+        "id": "Mt.1,18-24"
+      }
+    }
+  },
+  "FIX_12_19": {
+    "titulo": "Misa de feria-19 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "Jue 13, 2-7. 24-25a ,",
+        "extracto": "El nacimiento de Sansón fue anunciado por el ángel.",
+        "revisar": true,
+        "id": "Jue.13,2-7,24-25,"
+      },
+      "salmo": {
+        "ref": "Sal 70,",
+        "extracto": "Que se llene mi boca de tu alabanza, y así cantaré tu gloria.",
+        "revisar": false,
+        "id": "Sal.70,"
+      },
+      "evangelio": {
+        "ref": "Lc 1, 5-25",
+        "extracto": "",
+        "revisar": false,
+        "id": "Lc.1,5-25"
+      }
+    }
+  },
+  "FIX_12_20": {
+    "titulo": "Misa de feria-20 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "Is 7, 10-14",
+        "extracto": "Mirad: la virgen está encinta.",
+        "revisar": false,
+        "id": "Is.7,10-14"
+      },
+      "salmo": {
+        "ref": "Sal 23,",
+        "extracto": "Va a entrar el Señor; él es el Rey de la gloria.",
+        "revisar": false,
+        "id": "Sal.23,"
+      },
+      "evangelio": {
+        "ref": "Lc 1, 26-38",
+        "extracto": "Concebirás en tu vientre y darás a luz un hijo.",
+        "revisar": false,
+        "id": "Lc.1,26-38"
+      }
+    }
+  },
+  "FIX_12_21": {
+    "titulo": "Misa de feria-21 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "Cant 2, 8-14",
+        "extracto": "He aquí mi amado, llega saltando por los montes.",
+        "revisar": true,
+        "id": "Cant.2,8-14"
+      },
+      "salmo": {
+        "ref": "Sal 32 ,",
+        "extracto": "Aclamad, justos, al Señor; cantadle un cántico nuevo.",
+        "revisar": false,
+        "id": "Sal.32,"
+      },
+      "evangelio": {
+        "ref": "Lc 1, 39-45",
+        "extracto": "¿Quién soy yo para que me visite la madre de mi Señor?",
+        "revisar": false,
+        "id": "Lc.1,39-45"
+      }
+    }
+  },
+  "FIX_12_22": {
+    "titulo": "Misa de feria-22 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "1 Sam 1, 24-28",
+        "extracto": "Ana da gracias por el nacimiento de Samuel.",
+        "revisar": false,
+        "id": "1Sam.1,24-28"
+      },
+      "salmo": {
+        "ref": "1 Sam 2, 1-8",
+        "extracto": "Mi corazón se regocija en el Señor, mi Salvador.",
+        "revisar": true,
+        "id": "1Sam.2,1-8"
+      },
+      "evangelio": {
+        "ref": "Lc 1, 46-56",
+        "extracto": "El Poderoso ha hecho obras grandes en mí.",
+        "revisar": false,
+        "id": "Lc.1,46-56"
+      }
+    }
+  },
+  "FIX_12_23": {
+    "titulo": "Misa de feria-23 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "Mal 3, 1-4. 23-24 ,",
+        "extracto": "Os envío al profeta Elías, antes de que venga el Día del Señor.",
+        "revisar": true,
+        "id": "Mal.3,1-4,23-24,"
+      },
+      "salmo": {
+        "ref": "Sal 24,",
+        "extracto": "Levantaos, alzad la cabeza; se acerca vuestra liberación.",
+        "revisar": false,
+        "id": "Sal.24,"
+      },
+      "evangelio": {
+        "ref": "Lc 1, 57-66",
+        "extracto": "Nacimiento de Juan Bautista.",
+        "revisar": false,
+        "id": "Lc.1,57-66"
+      }
+    }
+  },
+  "FIX_12_24": {
+    "titulo": "Misa de feria-24 de diciembre",
+    "tipo": "Feria",
+    "color": "Morado",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "2 Sam 7, 1-5. 8b-12. 14a. 16 ,",
+        "extracto": "El reino de David se mantendrá siempre \nfirme ante el Señor.",
+        "revisar": true,
+        "id": "2Sam.7,1-5,8-12,14,16,"
+      },
+      "salmo": {
+        "ref": "Sal 88,",
+        "extracto": "Cantaré eternamente tus misericordias, Señor.",
+        "revisar": false,
+        "id": "Sal.88,"
+      },
+      "evangelio": {
+        "ref": "Lc 1, 67-79",
+        "extracto": "Nos visitará el Sol que nace de lo alto.",
+        "revisar": false,
+        "id": "Lc.1,67-79"
+      }
+    }
+  },
+  "FIX_12_25": {
+    "titulo": "SOLEMNIDAD DE LA NATIVIDAD DEL SEÑOR",
+    "tipo": "Solemnidad",
+    "color": "Blanco",
+    "rango": 1,
+    "lecturas": {
+      "primera": {
+        "ref": "Is 52, 7-10",
+        "extracto": "Verán los confines de la tierra la salvación de nuestro Dios.",
+        "revisar": false,
+        "id": "Is.52,7-10"
+      },
+      "salmo": {
+        "ref": "Sal 97,",
+        "extracto": "Los confines de la tierra han contemplado la salvación de \nnuestro Dios.",
+        "revisar": false,
+        "id": "Sal.97,"
+      },
+      "evangelio": {
+        "ref": "Jn 1, 1-18",
+        "extracto": "El Verbo se hizo carne y habitó entre nosotros.",
+        "revisar": false,
+        "id": "Jn.1,1-18"
+      },
+      "segunda": {
+        "ref": "Heb 1, 1-6",
+        "extracto": "Dios nos ha hablado por el Hijo.",
+        "revisar": false,
+        "id": "Heb.1,1-6"
+      }
+    }
+  },
+  "FIX_12_27": {
+    "titulo": "SAN JUAN, apóstol y evangelista, fiesta",
+    "tipo": "Fiesta",
+    "color": "Blanco",
+    "rango": 2,
+    "lecturas": {
+      "primera": {
+        "ref": "1 Jn 1, 1-4",
+        "extracto": "Eso que hemos visto y oído os lo anunciamos.",
+        "revisar": false,
+        "id": "1Jn.1,1-4"
+      },
+      "salmo": {
+        "ref": "Sal 96,",
+        "extracto": "Alegraos, justos, con el Señor.",
+        "revisar": false,
+        "id": "Sal.96,"
+      },
+      "evangelio": {
+        "ref": "Jn 20, 1a. 2-8 20,",
+        "extracto": "El otro discípulo corría más que Pedro; se adelantó y llegó \nprimero al sepulcro.",
+        "revisar": true,
+        "id": "Jn.20,1,2-820,"
+      }
+    }
+  },
+  "FIX_12_31": {
+    "titulo": "DÍA VII DENTRO DE LA OCTAVA DE LA NATIVIDAD DEL SEÑOR",
+    "tipo": "Feria",
+    "color": "Blanco",
+    "rango": 4,
+    "lecturas": {
+      "primera": {
+        "ref": "1 Jn 2, 18-21",
+        "extracto": "Estáis ungidos por el Santo, y todos vosotros lo conocéis.",
+        "revisar": false,
+        "id": "1Jn.2,18-21"
+      },
+      "salmo": {
+        "ref": "Sal 95,",
+        "extracto": "Alégrese el cielo, goce la tierra.",
+        "revisar": false,
+        "id": "Sal.95,"
+      },
+      "evangelio": {
+        "ref": "Jn 1, 1-18",
+        "extracto": "El Verbo se hizo carne.",
+        "revisar": false,
+        "id": "Jn.1,1-18"
+      }
+    }
+  }
+}
